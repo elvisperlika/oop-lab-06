@@ -1,0 +1,7 @@
+#ignore bin and build
+/bin
+/build
+
+#ignore pdf
+.pdf
+
