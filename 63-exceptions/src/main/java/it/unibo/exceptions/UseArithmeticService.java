@@ -59,7 +59,7 @@ public final class UseArithmeticService {
 
     private static String retryReceiveOnNetworkError(final NetworkComponent server) {
         /*
-         * This method should re-try to retrieve information from the provided server, catching *  all IOExceptions,
+         * This method should re-try to retrieve information from the provided server, catching all IOExceptions,
          * until it succeeds.
          */
         while (true) {
